@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kesarchauhan
-- 👀 I’m interested in web development
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning react, nod.js
 
 <!---
