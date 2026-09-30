@@ -74,4 +74,4 @@ PyQt5 and OpenModelica.
 
 ## Connect
 
-[LinkedIn] www.linkedin.com/in/Kesar-Chauhan
+LinkedIn : www.linkedin.com/in/Kesar-Chauhan
